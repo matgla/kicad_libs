@@ -1,0 +1,3 @@
+[submodule "6.0/3rdparty/Alternate-KiCad-Library"]
+	path = 6.0/3rdparty/Alternate-KiCad-Library
+	url = https://github.com/DawidCislo/Alternate-KiCad-Library.git
